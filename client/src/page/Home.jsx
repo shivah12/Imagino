@@ -26,7 +26,7 @@ const Home = () => {
     setLoading(true);
 
     try {
-      const response = await fetch('z', {
+      const response = await fetch('https://imagino.onrender.com/api/v1/post', {
         method: 'GET',
         headers: {
           'Content-Type': 'application/json',
