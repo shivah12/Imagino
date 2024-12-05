@@ -1,6 +1,6 @@
 # Imagino
 
-This is a full-stack MERN application that uses OpenAI's DALL·E API to generate AI-powered images based on user prompts. The project allows users to create and share unique AI-generated images. Currently the website is down, due to the max free credit limit
+This is a full-stack MERN application that uses OpenAI's DALL·E API to generate AI-powered images based on user prompts. The project allows users to create and share unique AI-generated images. Currently the website is down, due to the max free credit limit being exhausted, kindly cooperate as I am working on any alternative.
 
 ## Features
 
