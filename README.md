@@ -77,9 +77,3 @@ This is a full-stack MERN application that uses OpenAI's DALL·E API to generate
 2. Click "Generate" to create an image using OpenAI's DALL·E API.
 3. Save or share your generated image.
 
-
-This project is licensed under the MIT License.
-
----
-
-Let me know if you’d like modifications or additional details!
